@@ -127,11 +127,6 @@ src/
 
 ## Getting Started
 
-### Prerequisites
-
-- Java 17+
-- Gradle (wrapper included)
-
 ### Build & Run
 
 ```bash
